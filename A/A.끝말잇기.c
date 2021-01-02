@@ -1,5 +1,5 @@
-#Good Bye, BOJ 2020! A번 문제
-#[20528] 끝말잇기 https://www.acmicpc.net/problem/20528
+//Good Bye, BOJ 2020! A번 문제
+//[20528] 끝말잇기 https://www.acmicpc.net/problem/20528
 
 #include<stdio.h>
 int N;
